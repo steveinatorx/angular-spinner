@@ -5,7 +5,7 @@
 	"main": "./angular-spinner.js",
 	"author": "Uri Shaked",
 	"license": "MIT",
-	"homepage": "https://github.com/urish/angular-spinner",
+	"homepage": "https://github.com/steveinatorx/angular-spinner",
 	"ignore": [
 	],
 	"dependencies": {
