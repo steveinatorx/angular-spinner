@@ -10,7 +10,7 @@
 	],
 	"dependencies": {
 		"angular": ">=1.0.0 <1.4.0",
-		"spin.js": "git@github.com:steveinatorx/spin.js#89734a25ac9b1428806a024e079d93ce83977372"
+		"spin.js": "git@github.com:steveinatorx/spin.js#bitcalculus"
 	},
 	"devDependencies": {
 		"angular-mocks": ">=1.0.0 <1.3.0"
